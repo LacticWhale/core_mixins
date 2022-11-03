@@ -1,6 +1,6 @@
 name: core_mixins
 description: Collection of mixins implementing some dart libraries' abstract classes so you don't have to implement them.
-version: 1.0.0
+version: 1.0.1+dev.1
 homepage: https://github.com/LacticWhale/core_mixins
 
 environment:
